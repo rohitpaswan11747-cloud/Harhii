@@ -1,0 +1,110 @@
+[
+  {
+    "id": "floor-lemon",
+    "name": "Voda Feelpure Floor Cleaner (Lemon)",
+    "category": "Floor Care",
+    "price": 79,
+    "maxPrice": 899,
+    "image": "https://www.jiomart.com/images/product/original/rvvjbvkzjt/voda-feelpure-floor-cleaner-lemon-500ml-pack-of-2-product-images-orvvjbvkzjt-p599331392-1-202303150256.png?im=Resize%3D%28420%2C420%29",
+    "link": "https://vodachemicals.com/product/floor-cleaner/",
+    "bg": "#f6f1cf",
+    "description": "For everyday floor cleaning.",
+    "active": true
+  },
+  {
+    "id": "floor-rose",
+    "name": "Voda Feelpure Floor Cleaner (Rose)",
+    "category": "Floor Care",
+    "price": 89,
+    "maxPrice": 850,
+    "image": "",
+    "link": "https://vodachemicals.com/product/floor-cleaner-rose/",
+    "bg": "#f5e6e8",
+    "description": "Rose variant for everyday floor cleaning.",
+    "active": true
+  },
+  {
+    "id": "dishwash",
+    "name": "Voda Feelpure Dish Wash Gel",
+    "category": "Dishwash",
+    "price": 79,
+    "maxPrice": 949,
+    "image": "https://cpimg.tistatic.com/09921224/b/4/DishWash-Gel-500ml-Dish-wash..jpg",
+    "link": "https://vodachemicals.com/product/dish-wash/",
+    "bg": "#f6efd8",
+    "description": "Kitchen cleaning essential.",
+    "active": true
+  },
+  {
+    "id": "toilet",
+    "name": "Voda Feelpure Toilet Cleaner",
+    "category": "Bathroom",
+    "price": 55,
+    "maxPrice": 825,
+    "image": "",
+    "link": "https://vodachemicals.com/product/toilet-cleaner/",
+    "bg": "#e3ecf5",
+    "description": "Toilet cleaning essential.",
+    "active": true
+  },
+  {
+    "id": "glass",
+    "name": "Voda Feelpure Glass Cleaner",
+    "category": "Glass Care",
+    "price": 70,
+    "maxPrice": 690,
+    "image": "https://cpimg.tistatic.com/09920842/b/4/Glass-Cleaner-500-ml..jpg",
+    "link": "https://vodachemicals.com/product/glass-cleaner/",
+    "bg": "#e3f2ef",
+    "description": "For glass and other shiny surfaces.",
+    "active": true
+  },
+  {
+    "id": "bathroom",
+    "name": "Voda Feelpure Bathroom Cleaner",
+    "category": "Bathroom",
+    "price": 76,
+    "maxPrice": 999,
+    "image": "",
+    "link": "https://vodachemicals.com/product/bathroom-cleaner-2/",
+    "bg": "#f2e8dd",
+    "description": "Bathroom surface cleaning essential.",
+    "active": true
+  },
+  {
+    "id": "room",
+    "name": "Voda Feelpure Room Freshner",
+    "category": "Fresheners",
+    "price": 195,
+    "maxPrice": 2400,
+    "image": "",
+    "link": "https://vodachemicals.com/product/room-freshner/",
+    "bg": "#eee6f0",
+    "description": "Home fragrance and freshness.",
+    "active": true
+  },
+  {
+    "id": "tap",
+    "name": "Voda Feelpure Tap Cleaner",
+    "category": "Bathroom",
+    "price": 199,
+    "maxPrice": 199,
+    "image": "",
+    "link": "https://vodachemicals.com/product/tap-cleaner/",
+    "bg": "#edf0e8",
+    "description": "For cleaning taps and fixtures.",
+    "active": true
+  },
+  {
+    "id": "combo",
+    "name": "Complete Home Care Combo",
+    "category": "Combos",
+    "price": 480,
+    "maxPrice": 480,
+    "image": "",
+    "link": "https://vodachemicals.com/product/complete-home-care-combo/",
+    "bg": "#e7f1e7",
+    "description": "Floor, toilet, glass and dishwash essentials in one bundle.",
+    "active": true
+  }
+]
