@@ -1,22 +1,22 @@
-# Voda Feelpure E-commerce Storefront
+# Voda Feelpure Home Care Storefront
 
-Healthy Home-inspired responsive storefront for Voda Chemicals Pvt. Ltd.
+Warm lifestyle-themed, responsive storefront for Voda Chemicals Pvt. Ltd.
 
-## View
-Open `index.html` in your browser, or publish this branch with a static web host (such as GitHub Pages).
+## What is connected
+- 7 real Voda/Feelpure home-care products with published starting prices (researched on 20 November 2026).
+- Actual product photography sourced from Voda Chemicals and external marketplace listings, loaded by public image URLs. Replace these with company-approved, locally hosted photos before launch.
+- Each **Choose size & buy** button links to the product on https://vodachemicals.com — Voda's existing e-commerce store. Cart, shipping, payments and final orders take place **there**, not inside this static frontend.
+- Contact enquiry uses `mailto:admin@vodafeelpure.com`; this needs an email app on the visitor's device and is not a server-side contact form.
+- Published phone number +91 9306294470.
 
-## Demo features
-- Responsive homepage and warm cream/sage green style
-- Category cards, search and filtering
-- Eight illustrative cleaning product listings
-- Shopping cart with browser-local persistence
-- Contact and order enquiry forms
+## Important details
+Published prices are starting prices, vary by size, and may change. This frontend is not synced to live inventory and must not claim a real-time checkout or price guarantee. There is no standalone payment gateway, order database or on-site checkout. The official store handles those.
 
-## Before commercial launch
-- All products, variants, quantities, packaging graphics and prices are **illustrative placeholders**, not a verified Voda catalog.
-- Replace demo bottle drawings and stock lifestyle photos with licensed, approved product images.
-- Set `BUSINESS_EMAIL` in `index.html` to a verified company address.
-- Enquiries use a mailto URL when email is configured; without it the text may be copied to the clipboard. No customer information is sent by this demo.
-- Implement a backend, secure payment gateway, order management, shipping logic and relevant legal/privacy pages for actual e-commerce.
+## Publish
+Preview `index.html` locally. To host it, merge this branch after review and enable GitHub Pages or deploy to any HTTPS static hosting provider. Configure the DNS/custom domain yourself. Review external image permissions before publication.
 
-This is a functional front-end prototype, **not** a production checkout.
+## Sources
+- https://vodachemicals.com/product-category/housekeeping/homecare/
+- https://vodachemicals.com/product/dish-wash/
+- https://vodachemicals.com/product/complete-home-care-combo/
+- https://vodafeelpure.com/contact-2/
